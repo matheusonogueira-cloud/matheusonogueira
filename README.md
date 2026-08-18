@@ -6,6 +6,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 
 ## Tecnologias em aprendizado
 
+
 <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
 
 *CSS
